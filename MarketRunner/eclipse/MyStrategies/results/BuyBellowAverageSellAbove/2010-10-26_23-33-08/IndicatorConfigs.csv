@@ -1,0 +1,4 @@
+Name;Symbol;Color;DrawMode
+SMA 10 (1);;-16776961;PRICE
+EMA 10 (2);;-65536;PRICE
+ADX 10 (3);;-256;INDEPENDENT

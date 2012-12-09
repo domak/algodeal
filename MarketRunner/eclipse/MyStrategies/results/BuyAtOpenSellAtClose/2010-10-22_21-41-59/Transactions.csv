@@ -1,0 +1,8 @@
+Date;InstrumentID;Side;Price;Quantity;Value;TotalCost;Comment;OrderId;Factor;Currency;RawSymbol;BrokerCost;BrokerCurrency;ClearingCost;ClearingCurrency;ExchangeCost;ExchangeCurrency;NFACost;NFACurrency;GlobexCost;GlobexCurrency;Tag
+1999/03/03 08:00:00.000;CAC 40;BUY;4025.5813448097924;1;40255.81344809792;0.0;Enter in pos by buying at open;0;10;EUR;FCEH9^9;;;;;;;;;;;
+1999/03/08 16:29:59.999;CAC 40;SELL;4154.35240160735;1;41543.5240160735;0.0;Sell at Close;2;10;EUR;FCEH9^9;;;;;;;;;;;
+1999/03/09 08:00:00.000;CAC 40;BUY;4173.172786831608;1;41731.727868316084;0.0;Enter in pos by buying at open;3;10;EUR;FCEH9^9;;;;;;;;;;;
+1999/03/24 16:29:59.999;CAC 40;SELL;3964.514147490028;1;39645.14147490028;0.0;security stop;4;10;EUR;FCEH9^9;;;;;;;;;;;
+1999/03/26 08:00:00.000;CAC 40;BUY;4148.409122062847;1;41484.09122062847;0.0;Enter in pos by buying at open;5;10;EUR;FCEH9^9;;;;;;;;;;;
+2001/09/11 15:29:59.999;CAC 40;SELL;3824.302277569303;1;38243.02277569303;0.0;security stop;1;10;EUR;FCEU1^0;;;;;;;;;;;
+2001/09/11 15:29:59.999;CAC 40;SELL;3940.9886659597046;1;39409.88665959705;0.0;security stop;6;10;EUR;FCEU1^0;;;;;;;;;;;

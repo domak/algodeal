@@ -1,0 +1,1 @@
+Date;InstrumentID;Side;Price;Quantity;Value;TotalCost;Comment;OrderId;Factor;Currency;RawSymbol;BrokerCost;BrokerCurrency;ClearingCost;ClearingCurrency;ExchangeCost;ExchangeCurrency;NFACost;NFACurrency;GlobexCost;GlobexCurrency;Tag

@@ -1,0 +1,40 @@
+This software comes with third-party libraries, covered by various licenses.
+
+Google Collections http://code.google.com/p/guava-libraries/
+Apache License 2.0 http://www.apache.org/licenses/LICENSE-2.0
+
+Google Guice http://code.google.com/p/google-guice/
+Apache License 2.0 http://www.apache.org/licenses/LICENSE-2.0
+
+Javolution http://javolution.org/
+BSD License http://javolution.org/LICENSE.txt
+
+JCommon http://www.jfree.org/jcommon/
+GNU Lesser General Public Licence 2.1 or later http://www.gnu.org/licenses/lgpl.html
+
+JFreeChart http://www.jfree.org/jfreechart/
+GNU Lesser General Public Licence 2.1 or later http://www.gnu.org/licenses/lgpl.html
+
+Joda Time
+Apache License 2.0 http://www.apache.org/licenses/LICENSE-2.0
+
+Apache Log4J
+Apache License 2.0 http://www.apache.org/licenses/LICENSE-2.0
+
+SLF4J http://www.slf4j.org/
+MIT license http://www.slf4j.org/license.html
+
+Spring Framework
+Apache License 2.0 http://www.apache.org/licenses/LICENSE-2.0
+
+Apache Commons
+Apache License 2.0 http://www.apache.org/licenses/LICENSE-2.0
+
+LIBSVM http://www.csie.ntu.edu.tw/~cjlin/libsvm/
+Modified BSD license http://www.csie.ntu.edu.tw/~cjlin/libsvm/faq.html#f204
+
+TA-Lib http://ta-lib.org/
+TA-Lib BSD License http://ta-lib.svn.sourceforge.net/viewvc/ta-lib/trunk/ta-lib/LICENSE.TXT
+
+Weka http://www.cs.waikato.ac.nz/ml/weka/
+GNU General Public Licence 3 or later http://www.gnu.org/copyleft/gpl.html

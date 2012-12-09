@@ -1,0 +1,2 @@
+Creation Date;Order ID;Instrument ID;Side;Type;Quantity;Average Price;Stop/Limit Price;Status;Processed Date;Comment;ExternalId;Tag
+1999/03/01 08:00:00.000;0;CAC 40;BUY;Market;1;4075.6039476426895;0.0;Filled;1999/03/01 08:00:00.000;Enter in pos by buying at open;-1;

@@ -1,0 +1,2 @@
+Type;BarType;Date;Symbol;Raw Symbol;Open;High;Low;Close;SettlementPrice;Volume;OpenInterest;Duration(ms);AdjustmentFactor;AdjustmentVolume
+Bar;0;1999/03/01 08:00:00.000;CAC 40;FCEH9^9;4075.6039476426895;4083.033047073318;4000.3224067456563;3991.9027607242774;3991.9027607242774;56590;149216;30600000;1.0;1.0

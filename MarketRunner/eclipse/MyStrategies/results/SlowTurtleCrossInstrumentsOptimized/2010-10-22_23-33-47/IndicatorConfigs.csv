@@ -1,0 +1,5 @@
+Name;Symbol;Color;DrawMode
+SMA 90 (1);;-65536;PRICE
+SMA 300 (2);;-65281;PRICE
+SMA 90 (1);;-65536;PRICE
+SMA 300 (2);;-65281;PRICE

@@ -1,0 +1,5 @@
+Creation Date;Order ID;Instrument ID;Side;Type;Quantity;Average Price;Stop/Limit Price;Status;Processed Date;Comment;ExternalId;Tag
+2001/01/09 16:29:59.999;0;E-MINI S&P;SELL;Market;1;1433.8717766670547;0.0;Filled;2001/01/09 21:14:59.999;Reverse to Short;-1;
+2003/08/21 15:29:59.999;1;E-MINI S&P;BUY;Market;2;1072.3703555958634;0.0;Filled;2003/08/21 20:14:59.999;Reverse to Long;-1;
+2007/11/20 16:29:59.999;2;E-MINI S&P;SELL;Market;2;1430.365298993869;0.0;Filled;2007/11/20 21:14:59.999;Reverse to Short;-1;
+2009/09/11 15:29:59.999;3;E-MINI S&P;BUY;Market;2;1028.739541653554;0.0;Filled;2009/09/11 20:14:59.999;Reverse to Long;-1;

@@ -1,0 +1,5 @@
+Creation Date;Order ID;Instrument ID;Side;Type;Quantity;Average Price;Stop/Limit Price;Status;Processed Date;Comment;ExternalId;Tag
+2001/01/09 16:29:59.999;0;CAC 40;SELL;Market;1;5473.146218217215;0.0;Filled;2001/01/09 16:29:59.999;Reverse to Short;-1;
+2003/08/21 15:29:59.999;1;CAC 40;BUY;Market;1;3086.258911099095;0.0;Filled;2003/08/21 15:29:59.999;Reverse to Long;-1;
+2007/11/20 16:29:59.999;2;CAC 40;SELL;Market;1;5122.715109650993;0.0;Filled;2007/11/20 16:29:59.999;Reverse to Short;-1;
+2009/09/11 15:29:59.999;3;CAC 40;BUY;Market;1;3587.985371619225;0.0;Filled;2009/09/11 15:29:59.999;Reverse to Long;-1;

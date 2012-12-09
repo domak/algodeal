@@ -1,0 +1,10 @@
+com.algodeal.marketData.filters
+com.algodeal.marketData.instruments
+com.algodeal.marketData.instruments.util
+com.algodeal.marketData.prices
+com.algodeal.marketData.prices.adjfactors
+com.algodeal.marketrunner.indicators
+com.algodeal.marketrunner.orders
+com.algodeal.marketrunner.orders.implementations
+com.algodeal.marketrunner.positions
+com.algodeal.marketrunner.strategies

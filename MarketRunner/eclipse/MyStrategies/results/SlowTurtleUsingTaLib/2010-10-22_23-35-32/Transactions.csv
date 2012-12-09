@@ -1,0 +1,5 @@
+Date;InstrumentID;Side;Price;Quantity;Value;TotalCost;Comment;OrderId;Factor;Currency;RawSymbol;BrokerCost;BrokerCurrency;ClearingCost;ClearingCurrency;ExchangeCost;ExchangeCurrency;NFACost;NFACurrency;GlobexCost;GlobexCurrency;Tag
+2001/01/09 16:29:59.999;CAC 40;SELL;5473.146218217215;1;54731.46218217215;0.0;Reverse to Short;0;10;EUR;FCEF1^0;;;;;;;;;;;
+2003/08/21 15:29:59.999;CAC 40;BUY;3086.258911099095;1;30862.58911099095;0.0;Reverse to Long;1;10;EUR;FCEQ3^0;;;;;;;;;;;
+2007/11/20 16:29:59.999;CAC 40;SELL;5122.715109650993;1;51227.15109650993;0.0;Reverse to Short;2;10;EUR;FCEZ7^0;;;;;;;;;;;
+2009/09/11 15:29:59.999;CAC 40;BUY;3587.985371619225;1;35879.85371619225;0.0;Reverse to Long;3;10;EUR;FCEU9^0;;;;;;;;;;;

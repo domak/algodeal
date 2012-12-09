@@ -1,0 +1,2 @@
+Date;InstrumentID;Side;Price;Quantity;Value;TotalCost;Comment;OrderId;Factor;Currency;RawSymbol;BrokerCost;BrokerCurrency;ClearingCost;ClearingCurrency;ExchangeCost;ExchangeCurrency;NFACost;NFACurrency;GlobexCost;GlobexCurrency;Tag
+1999/03/01 08:00:00.000;CAC 40;BUY;4075.6039476426895;1;40756.03947642689;0.0;Enter in pos by buying at open;0;10;EUR;FCEH9^9;;;;;;;;;;;

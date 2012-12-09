@@ -1,0 +1,5 @@
+Date;InstrumentID;Side;Price;Quantity;Value;TotalCost;Comment;OrderId;Factor;Currency;RawSymbol;BrokerCost;BrokerCurrency;ClearingCost;ClearingCurrency;ExchangeCost;ExchangeCurrency;NFACost;NFACurrency;GlobexCost;GlobexCurrency;Tag
+2001/01/09 21:14:59.999;E-MINI S&P;SELL;1433.8717766670547;1;71693.58883335274;0.0;Reverse to Short;0;50;USD;ESH1^0;;;;;;;;;;;
+2003/08/21 20:14:59.999;E-MINI S&P;BUY;1072.3703555958634;2;107237.03555958634;0.0;Reverse to Long;1;50;USD;ESU3^0;;;;;;;;;;;
+2007/11/20 21:14:59.999;E-MINI S&P;SELL;1430.365298993869;2;143036.5298993869;0.0;Reverse to Short;2;50;USD;ESZ7^0;;;;;;;;;;;
+2009/09/11 20:14:59.999;E-MINI S&P;BUY;1028.739541653554;2;102873.95416535539;0.0;Reverse to Long;3;50;USD;ESZ9^0;;;;;;;;;;;

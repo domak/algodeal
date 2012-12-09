@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/MyStrategies"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.algodeal.MainStrategyRunner"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-url https://beta.algodeal.com &quot;${resource_loc}&quot; -u ${string_prompt:Username} -p ${password_prompt:Password}"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="MyStrategies"/>
+</launchConfiguration>
